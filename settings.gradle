@@ -1,0 +1,5 @@
+rootProject.name = "AnnotationDemo"
+include ':app'
+include ':app_annotation'
+include ':annotation_api'
+include ':app_compiler'
